@@ -1,0 +1,2 @@
+-- notas
+en esta carpeta hay que poner todos los peticiones 
